@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 43
+  controlID: 46
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -226,7 +226,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 44
+  controlID: 47
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -251,7 +251,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 45
+  controlID: 48
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -351,7 +351,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\segundo\Mi primer proyecto
+  m_LastProjectPath: D:\Francesc Aguera\Francesc-Aguera-Tema-1\Mi primer proyecto
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -569,9 +569,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -39.187233, y: -16.352945, z: -3.5820618}
+    m_Target: {x: -39.187233, y: -16.352947, z: -3.5820727}
     speed: 2
-    m_Value: {x: -39.187237, y: -16.352942, z: -3.5820432}
+    m_Value: {x: -39.187233, y: -16.352945, z: -3.5820618}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -618,9 +618,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.1427423, y: 0.73976207, z: -0.16596116, w: -0.6362654}
+    m_Target: {x: -0.14274228, y: 0.7397622, z: -0.16596119, w: -0.6362652}
     speed: 2
-    m_Value: {x: 0.14272967, y: -0.7397644, z: 0.16597196, w: 0.6362627}
+    m_Value: {x: -0.1427423, y: 0.73976207, z: -0.16596116, w: -0.6362654}
   m_Size:
     m_Target: 22.909262
     speed: 2
